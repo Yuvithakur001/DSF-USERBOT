@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a350fd3eef952b5c11801.jpg" alt="DSF USERBOT">
+  <img src="https://graph.org/file/86d231f1d06d45c254cbb.jpg" alt="DSF USERBOT">
 </p>
 
 <h6 align="center">
